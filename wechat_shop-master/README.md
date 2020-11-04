@@ -9,5 +9,3 @@
 5、App/Api/Controller/WxPayController.class.php 50行修改链接
 
 后台登录的用户名是admin，密码是123456
-
-小程序源码：wechat_shop_xcx
